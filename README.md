@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BoredRune
-- 👀 I’m interested in ... Runelite, IRC, Python, Ghidra
+- 👀 I’m interested in ... Runelite, IRC, Python, Lua
 - 🌱 I’m currently learning ... Python, Typescript
 - 💞️ I’m looking to collaborate on ... RevoltChat, Runelite PluginHub
 - 📫 How to reach me ... Do not
