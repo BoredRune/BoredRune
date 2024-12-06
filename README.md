@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BoredRune
-- 👀 I’m interested in ... Runelite, IRC, Python, Lua
+- 👀 I’m interested in ... IRC, Python, Java
 - 🌱 I’m currently learning ... Python, Typescript
-- 💞️ I’m looking to collaborate on ... RevoltChat, Runelite PluginHub
+- 💞️ I’m looking to collaborate on ... Minecraft
 - 📫 How to reach me ... Do not
 - 😄 Pronouns: ... I/AM
 - ⚡ Fun fact: ... I get Bored a lot
